@@ -9,7 +9,7 @@ Requirements
 Quick start (PowerShell)
 
 ```powershell
-cd "C:\Users\Admin\Documents\Assignment Krafton"
+cd "Assignment Krafton"
 # (optional) Create and activate a virtualenv, then install requirements
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
