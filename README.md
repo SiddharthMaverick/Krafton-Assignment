@@ -26,5 +26,3 @@ Notes
 - The server logs use simple timestamped messages printed to stdout.
 - The test script `test_assignment.py` connects two players and validates movement, coin pickup, and basic anti-cheat behavior.
 - If your terminal has encoding issues printing Unicode characters, you may see an encoding error at the end of the test script — the tests themselves still passed.
-
-If you want me to revert any runtime tuning (e.g. `PLAYER_SPEED`) or integrate a more robust logging framework, tell me and I will implement it.
